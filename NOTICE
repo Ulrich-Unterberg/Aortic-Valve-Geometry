@@ -1,9 +1,0 @@
-This project includes geometric data and models originally based on the work of Haj-Ali et al. (2012) titled 
-"A general three-dimensional parametric geometry of the native aortic valve and root for biomechanical modeling." 
-The original work is copyrighted by Elsevier Ltd. All rights reserved.
-
-The surface geometry was reconstructed in Creo using the parametric curves provided by Haj-Ali et al. 
-The surface geometry served as the foundation for creating the volumetric model, which was subsequently generated and processed in LS-PrePost for further analysis.
-
-Users are permitted to use the provided data for non-commercial purposes, provided that appropriate credit is given to the original authors. 
-Any modifications or commercial use require explicit permission from the copyright holders.
